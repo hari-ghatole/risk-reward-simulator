@@ -83,7 +83,7 @@ label_yaxis -= 100000
 plt.xlabel("Trades")
 plt.ylabel("P/L")
 
-plt.text(10, label_yaxis, f'{now_time}, \n WR: {win_rate}, RR: {risk_reward}, RPTrs: {risk_per_trade}, SIMS: {total_sims}, MODE: {mode}',
+plt.text(10, label_yaxis, f'{now_time}, \n WR: {win_rate}, RR: {risk_reward}, RPTrd: {risk_per_trade}, SIMS: {total_sims}, MODE: {mode}',
          fontsize=7, bbox=dict(facecolor="red", alpha=0.5),)
 
 plt.hlines(y=500000, xmin=0, xmax=total_trades, linewidth=2, color='k')
