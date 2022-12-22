@@ -4,14 +4,14 @@ This is a program to demonstrate the various equity-growth outcomes of a trading
 
 The following parameters are used:
 
-Starting Capital = 500,000\
+Starting Capital = ₹500,000\
 Win Rate = 30% **(WR)**\
 Return : Risk = 4 : 1 **(RR)**\
 Risk Per Trade = 5,000 (1% of Starting Capital) **(RPTrd)** \
 Number of Simulations = 100 **(SIMS)**\
 Trades Per Simulation = 250 \
-Mode 1 = Fixed Risk in RUPEES based on Starting Capital \
-Mode 2 = Risk as a percent of current capital 
+Mode 1 = Fixed risk per trade in Rupees based on Starting Capital \
+Mode 2 = Risk per trade as a percent of current capital 
 
 1. 250 random trades are generated so that every winning trade earns 4 times more than every losing trade loses. 
 2. Out of the 250 trades, on a random basis 30% are winning trades. 
