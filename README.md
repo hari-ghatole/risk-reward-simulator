@@ -2,7 +2,8 @@
 
 This is a program to demonstrate the various equity-growth outcomes of a trading strategy with a given win-rate and risk-reward ratio. It helps analyze back-tested strategies based on their risk-reward ratio, win rate %, total capital and risk per trade. 
 
-The following parameters are used : \
+The following parameters are used:
+
 Starting Capital = 500,000\
 Win Rate = 30% **(WR)**\
 Return : Risk = 4 : 1 **(RR)**\
