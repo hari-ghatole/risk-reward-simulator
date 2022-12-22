@@ -6,7 +6,7 @@ The following parameters are used : \
 Win Rate = 30% \
 Return : Risk = 4 : 1 \
 Starting Capital = 500,000 \
-Risk = 5,000 (1% of Starting Capital) \
+Risk = 5,000 (1% of Starting Capital)
 
 1. 250 random trades are generated so that every winning trade earns 4 times more than every losing trade loses. 
 2. Out of the 250 trades, on a random basis 30% are winning trades. 
